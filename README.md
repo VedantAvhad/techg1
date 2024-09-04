@@ -1,5 +1,5 @@
 <!-- Home -->
-![Image1](./images/WhatsApp Image 2024-09-04 at 11.07.03_ec1ede4a.jpg)
+![Image1](./techg1/images/WhatsApp Image 2024-09-04 at 11.07.03_ec1ede4a.jpg)
 ![Image2](./images/WhatsApp Image 2024-09-04 at 11.07.02_823e828b.jpg)
 ![Image3](./images/WhatsApp Image 2024-09-04 at 11.07.01_303a919c.jpg)
 ![Image4](./images/WhatsApp Image 2024-09-04 at 11.07.00_4ec000d5.jpg)
